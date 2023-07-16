@@ -1,0 +1,15 @@
+.popup__icon-text {
+  color: #000;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  margin: 32px 36px 50px;
+  text-align: center;
+}
+
+@media screen and (max-width: 767px) {
+  .popup__icon-text {
+    margin: 40px 18px 50px;
+  }
+}

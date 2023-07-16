@@ -1,0 +1,15 @@
+.popup__img-container {
+  display: flex;
+  margin: 0 auto;
+  flex-direction: column;
+  top: 90px;
+  left: 50%;
+  transform: translate(-50%, 0);
+  position: fixed;
+}
+
+@media screen and (max-width: 937px) {
+  .popup__img-container {
+    top: 136px;
+  }
+}

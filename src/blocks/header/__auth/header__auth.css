@@ -1,0 +1,11 @@
+.header__auth {
+  margin: 0;
+  padding: 0 0 46px 0;
+  display: flex;
+}
+
+@media screen and (max-width: 937px) {
+  .header__auth {
+    padding-right: 27px;
+  }
+}
