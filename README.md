@@ -23,7 +23,7 @@
 
 **Проект на GitHub Pages:**
 
-- [Посмотреть проект](https://rdevil23.github.io/mesto-react/index.html)
+- [Посмотреть проект](https://rdevil23.github.io/mesto-react-auth/index.html)
 
 Все запросы на авторизацию, регистрацию и проверку токена работают через сервис `https://auth.nomoreparties.co`.
 
